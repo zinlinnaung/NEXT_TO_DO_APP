@@ -8,7 +8,7 @@ export default async function Home() {
   console.log(tasks);
   return (
     <main className="w-screen  mt-4 flex justify-center">
-      <div className="text-center w-[50%] my-5 flex flex-col gap-4 ">
+      <div className="text-center w-[50%] my-5 flex flex-col gap-4  ">
         <h1 className="text-2xl font-bold text-black">Todo List App</h1>
         <AddTask />
         <TodoList tasks={tasks} />

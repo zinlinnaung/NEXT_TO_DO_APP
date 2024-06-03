@@ -1,24 +1,16 @@
 {
   "tasks": [
     {
-      "id": "3",
-      "text": "go to gym"
+      "id": "66f7d2e8-3cf4-44be-9b4c-09a8cb3bd2c1",
+      "text": "learning nextjs"
     },
     {
-      "id": "4",
-      "text": "go to market mall"
+      "id": "1c2cb974-b7aa-47d0-a460-a96e1c29d067",
+      "text": "learning flutter"
     },
     {
-      "id": "75",
-      "text": "learn english"
-    },
-    {
-      "id": "a0221059-4320-4cb4-a614-c0abec968871",
-      "text": "learn math"
-    },
-    {
-      "id": "2ec8f908-0272-45a9-94cf-1a308cdb5036",
-      "text": "learn science"
+      "id": "fb0c08e0-9c45-453f-88cb-dec200d8f129",
+      "text": "learning nestjs"
     }
   ]
 }
